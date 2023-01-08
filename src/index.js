@@ -1,4 +1,5 @@
 module.exports = function toReadable (number) {
+  
   let result;
   let currentNumber = String(number);
 
